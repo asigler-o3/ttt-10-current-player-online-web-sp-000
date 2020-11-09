@@ -9,5 +9,5 @@ def turn_count(board)
 end
 
 def current_player(board)
-  current_player(voard)
+  current_player(board)
 end
